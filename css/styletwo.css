@@ -1,0 +1,16 @@
+.bar{
+  text-align: center;
+  font-size: 18px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #ffffff;
+  box-shadow: 0 0 10px #8f8f8fb6;
+}
+
+
+.up {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+}
+
